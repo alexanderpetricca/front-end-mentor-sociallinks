@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [link](https://github.com/alexanderpetricca/front-end-mentor-sociallinks)
-- Live Site URL: [link](https://your-live-site-url.com)
+- Live Site URL: [link](https://alexanderpetricca.github.io/front-end-mentor-sociallinks/)
 
 ## My process
 
